@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CMurtagh's Blog
+title: Deep Space Magic
 email: cameron.murtagh00@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A personal blog sharing my endeavours into mathematics and Linux.
@@ -27,8 +27,8 @@ url: "https://cmurtagh-lgtm.github.io" # the base hostname & protocol for your s
 github_username:  CMurtagh-LGTM
 
 # Build settings
+markdown: kramdown
 theme: minima
-
 plugins:
   - jekyll-feed
 
