@@ -85,7 +85,7 @@ I'm going to focus on subsets of \\(\\{1,2,3,4,5\\}\\) with Fourier series \\(s_
 
 In the video 3b1b uses the generating polynomial \\((1+\zeta)(1+\zeta^2)(1+\zeta^3)(1+\zeta^4)(1+\zeta^5)\\)
 and claims that the power refers to the elements of the set.
-In the video is expanded to \\(1+x+x^2+2x^3+2x^4+3x^5+3x^6+3x^7+3x^8+4x^8+4x^10+2x^11+2x^12+x^13+x^14+x^15\\)
+In the video is expanded to \\(1+x+x^2+2x^3+2x^4+3x^5+3x^6+3x^7+3x^8+4x^9+4x^{10}+2x^{11}+2x^{12}+x^{13}+x^{14}+x^{15}\\)
 and it claimed that the powers refer to the sums of the subsets.
 I had the idea that we should also apply modular arithmetic to the powers as we only care about remainders when dividing by \\(5\\).
 \\[8+6x+6x^2+6x^3+6x^4\\]
