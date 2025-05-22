@@ -9,7 +9,7 @@ I got back into painting
 miniatures the start of last year
 to have a hobby away from the
 computer that isn't super
-anlytical.
+analytical.
 I didn't want to go back to
 Warhammer40k as the reasons I had
 for ceasing to buy from Games
@@ -19,9 +19,9 @@ Miniature agnostic games piqued
 my interest as it decoupled
 the game and the models,
 if I didn't like where one part
-was headding I could easily
+was heading I could easily
 swap without all my models
-becomming obselete.
+becoming obsolete.
 I painted a bunch of One Page
 Rules Robot Legions that year but
 the constant battle with the 3d
@@ -40,8 +40,8 @@ am quite happy with.
 summarises Turnip28 nicely.
 
 This tickles my bleak and grim
-asthetic tendencies that developed
-playin 40k, Darksouls, Grim Dawn,
+aesthetic tendencies that developed
+playing 40k, Darksouls, Grim Dawn,
 etc but is balanced out by a
 whimsical comedy.
 Aside from being able to paint
@@ -59,7 +59,7 @@ but thankfully the
 has good guides on how to make
 some basic models from Perry
 Miniatures kits and photos
-of modles that are much more
+of models that are much more
 grounded than what can be found
 online.
 
@@ -70,7 +70,7 @@ black powder fodder.
 
 ![Black Powder Fodder](/assets/images/turnip28/fodder1/20250427_203625.jpg)
 
-I decided to go with black poweder
+I decided to go with black powder
 fodder first because they are the
 backbone of any self respecting
 toff's force.
@@ -94,11 +94,10 @@ sits in my mind.
 I started with a zenithal prime of
 Vallejo Negro and Gris spray primers.
 
-
 ![Here](/assets/images/turnip28/fodder1/turnip_close.jpg)
-is a closeup of a model so you can
+A close-up of a model so you can
 get an idea of what I'm talking
-about beloweach.
+about below.
 
 ### Metal
 
@@ -136,7 +135,7 @@ or have much contrast as this isn't
 where you're meant to focus on
 the model.
 
-I wasn't originaly planning on
+I wasn't originally planning on
 doing the straps, but after painting
 they looked like they needed it.
 
