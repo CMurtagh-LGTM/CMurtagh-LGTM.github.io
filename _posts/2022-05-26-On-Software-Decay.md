@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Software Decay"
-date: 2022-05-24
+date: 2022-05-26
 categories: Linux Software Ricing
 ---
 
