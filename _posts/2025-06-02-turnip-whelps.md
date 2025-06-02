@@ -36,7 +36,7 @@ whilst on a horse?
 I also did a toadie to lead these poor
 fellows.
 
-![Black Powder Whelps](/assets/images/turnip28/whelps1/todie_whelp.jpg)
+![Black Powder Whelps](/assets/images/turnip28/whelps1/toadie_whelp.jpg)
 
 ## Modelling Steps
 
