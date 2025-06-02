@@ -191,4 +191,4 @@ with just a dash of colour over
 crisp sci-fi models.
 
 I moved straight onto some Black
-Powder Chaff.
+Powder Whelps.
