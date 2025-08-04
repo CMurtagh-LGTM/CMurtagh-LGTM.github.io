@@ -7,8 +7,8 @@ categories: Modelling Turnip28 Wargamming
 
 I've really been enjoying painting
 these turnip models, something about
-warm greys gells with me.
-I get into the rythm of "one more
+warm greys jells with me.
+I get into the rhythm of "one more
 colour" and will paint up till it is
 time to sleep.
 I didn't remember why I had spent so
@@ -21,10 +21,10 @@ I wanted some a fast moving, objective
 stealing unit -- not that I've
 actually ever played Turnip28.
 This role is filled in Turnip28 by
-whelps, a light calvery unit that can
+whelps, a light calvary unit that can
 get an extra move on top of their
 already excellent 12" movement stat.
-I could say I chose balck powder to
+I could say I chose black powder to
 increase their firepower or to fit in
 with the rest of the 722nd Cake Forks,
 but no I just thought it looked kinda
@@ -46,7 +46,7 @@ texture.
 Then the tail was cut clean off and
 a greenstuff snake-like tail added.
 Finally a blob of greenstuff on the
-snount formed into a helmet shape.
+snout formed into a helmet shape.
 The goal was to look more meaty rather
 than furry.
 
@@ -78,4 +78,4 @@ for painting the jockey.
 ## Conclusion
 
 I really enjoyed painting these.
-Got some grogs comming next.
+Got some grogs coming next.
