@@ -4,7 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi I'm Cameron and I like:
+- Programming
+- Linux
+- Neovim
+- Mathematics
+- Gaming
+- Painting Models
+
+You can find the source code for this website at GitHub:
+[CMurtagh-LGTM](https://github.com/CMurtagh-LGTM) /
+[CMurtagh-LGTM.github.io](https://github.com/CMurtagh-LGTM/CMurtagh-LGTM.github.io)
+
+You can find the source code for Everforest at GitHub:
+[sainnhe](https://github.com/sainnhe) /
+[everforest](https://github.com/sainnhe/everforest)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
