@@ -25,7 +25,7 @@ I couldn't think of what I wanted in his left hand, so he got some nondescript r
 
 ## Painting
 
-Painted the same as the fodder [fodder](modelling/turnip28/wargamming/2025/05/22/Turnip-Fodder.html)
+Painted the same as the [fodder](modelling/turnip28/wargamming/2025/05/22/Turnip-Fodder.html)
 but with Steel Legion Grey Epaulettes and hat details.
 
 Also to note I made sure to place all the tufts I wanted before priming so they wouldn't be too green.

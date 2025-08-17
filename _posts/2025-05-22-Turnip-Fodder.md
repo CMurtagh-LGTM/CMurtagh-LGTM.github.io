@@ -95,6 +95,7 @@ I started with a zenithal prime of
 Vallejo Negro and Gris spray primers.
 
 ![Here](/assets/images/turnip28/fodder1/turnip_close.jpg)
+
 A close-up of a model so you can
 get an idea of what I'm talking
 about below.
