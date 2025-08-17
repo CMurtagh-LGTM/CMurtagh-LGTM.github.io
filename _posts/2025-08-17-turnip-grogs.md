@@ -14,14 +14,14 @@ Looking at Perry Agincourt Foot Knights I thought that their surcoats are great.
 Now that these are meant to be somewhat based on grenadiers so they got bearskins.
 I didn't feel like giving them a standard, so they got a trumpet.
 
-![Grogs](/assets/images/turnip28/whelps1/whelps.jpg)
+![Grogs](/assets/images/turnip28/grogs1/grogs.jpg)
 
 I painted another toadie at this time, I'm planning for him to command the fodder.
 He got a detailed looking shako to signify his commanding status.
 I used a Napoleonic body for once, to match the pistols toadies are meant to have equip.
 I couldn't think of what I wanted in his left hand, so he got some nondescript root.
 
-![Toadie](/assets/images/turnip28/whelps1/toadie_whelp.jpg)
+![Toadie](/assets/images/turnip28/grogs1/toadie.jpg)
 
 ## Painting
 
