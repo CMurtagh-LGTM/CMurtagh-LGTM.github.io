@@ -7,7 +7,7 @@ You can checkout my [blog](blog.md).
 You can peruse my configurations:
 
 [![Dots Repo](https://github-readme-stats.vercel.app/api/pin/?theme=gruvbox&username=CMurtagh-LGTM&repo=dots)](https://github.com/CMurtagh-LGTM/dots)
-[![Dots Repo](https://github-readme-stats.vercel.app/api/pin/?theme=gruvbox&username=CMurtagh-LGTM&repo=nvim)](https://github.com/CMurtagh-LGTM/nvim)
+[![Neovim Repo](https://github-readme-stats.vercel.app/api/pin/?theme=gruvbox&username=CMurtagh-LGTM&repo=nvim)](https://github.com/CMurtagh-LGTM/nvim)
 
 You can play some games I've made:
 
@@ -21,6 +21,6 @@ You can play some games I've made:
 
 You can also checkout [NUbots](https://nubook.nubots.net/), of which I was once a member:
 
-[![Dots Repo](https://github-readme-stats.vercel.app/api/pin/?theme=gruvbox&username=NUbots&repo=NUbots)](https://github.com/NUbots/NUbots)
-[![Dots Repo](https://github-readme-stats.vercel.app/api/pin/?theme=gruvbox&username=NUbots&repo=NUbook)](https://github.com/NUbots/NUbook)
-[![Dots Repo](https://github-readme-stats.vercel.app/api/pin/?theme=gruvbox&username=Fastcode&repo=NUClear)](https://github.com/Fastcode/NUClear)
+[![NUbots](https://github-readme-stats.vercel.app/api/pin/?theme=gruvbox&username=NUbots&repo=NUbots)](https://github.com/NUbots/NUbots)
+[![NUbook](https://github-readme-stats.vercel.app/api/pin/?theme=gruvbox&username=NUbots&repo=NUbook)](https://github.com/NUbots/NUbook)
+[![NUClear](https://github-readme-stats.vercel.app/api/pin/?theme=gruvbox&username=Fastcode&repo=NUClear)](https://github.com/Fastcode/NUClear)
