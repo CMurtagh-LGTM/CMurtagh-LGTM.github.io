@@ -22,7 +22,10 @@ title: Deep Space Magic
 author: Cameron Murtagh
 email: cameron.murtagh@deep-space-magic.com #cameron.murtagh00@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A personal website enumerating things I've done or like
+  A personal website enumerating things I've done or like.
+verse: >-
+  Revelation 7:10
+verse_link: "https://biblia.com/bible/niv2011/revelation/7/10"
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://cmurtagh-lgtm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
