@@ -36,6 +36,7 @@ mastodon:
    instance: mastodon.social
 
 header_pages:
+  - index.markdown
   - blog.md
   - about.markdown
 

@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Home
 ---
-
-You can checkout my [blog](blog.md).
 
 You can peruse my configurations:
 

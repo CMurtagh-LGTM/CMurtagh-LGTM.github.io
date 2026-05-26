@@ -193,6 +193,19 @@
   }
 }
 
+.post-list-horizontal {
+  margin-left: 0;
+  list-style: none;
+
+  > li {
+    display: inline-block;
+    margin-right: $spacing-unit;
+    > h3 {
+      margin-bottom: 0;
+    }
+  }
+}
+
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
