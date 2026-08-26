@@ -54,7 +54,7 @@ The tournament had a limit of 3500 points.
 - Now I also had a unit of State Infantry with spears, who died each game without doing much.
 - I had a Imperial Detachment with Greatweapons. These have a rule called Secondary
 which means they can counter charge a unit that charges a nearby Imperial Guard or State Infantry,
-however they were the ones getting charged most of the time rather.
+however they were the ones getting charged most of the time.
 - For ranged I had two State Marksmen, one with crossbows and the other handguns, these did quite well chipping off models at range.
 - To have I cheap unit I picked Local Militia, they proved to be a menace to both my opponent and me.
 - The magic for my list was handled by a Battlefield Wizard on an Arcane Engine.
@@ -76,7 +76,7 @@ Due to my excess of scoring units I managed to take the primary objective but du
 
 Next I versed a Daemon Legions list with some cavalry that had many bonuses when charging.
 To say the least, these managed to each charge multiple times.
-A deviating loss of 0 to 20.
+A devastating loss of 0 to 20.
 
 ## Game 3
 
